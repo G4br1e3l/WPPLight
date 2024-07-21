@@ -1,4 +1,4 @@
-# WPPLight, uma ferramenta Veloz de Engenharia Reversa para WhatsApp
+# WPPLight, uma ferramenta veloz para WhatsApp!
 
 ## Descrição
 
