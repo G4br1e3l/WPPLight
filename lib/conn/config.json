@@ -1,0 +1,19 @@
+{
+  "commands": [
+    {
+      "messages": {
+        "startup": {
+          "onqrscan": "Escaneie o QR Code.",
+          "onstaging": "Ativando status online.",
+          "onnotify": "As notificações pendentes foram recebidas.",
+          "onupdate": "Atualizando Conexão.",
+          "onconnect": "Conectando.",
+          "onreconect": "Reconectando.",
+          "onconnected": "@botname ::: ONLINE.",
+          "ondownconnection": "Conexão anterior caiu.",
+          "onlostconnection": "Não consegui reconectar... Por favor, faça login novamente."
+        }
+      }
+    }
+  ]
+}
