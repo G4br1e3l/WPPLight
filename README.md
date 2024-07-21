@@ -43,7 +43,7 @@ Este projeto visa fornecer uma ferramenta de engenharia reversa rápida e eficie
 
 ### Configuração
 
-1. Configure suas credenciais e outros parâmetros no arquivo `config.json`.
+1. Configure suas credenciais e outros parâmetros nos arquivos `set.json` e `config.json`.
 
 ### Executando a Ferramenta
 
